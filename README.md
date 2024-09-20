@@ -1,5 +1,5 @@
-# Engagement-Insights-Top-5-Content-Categories-on-Social-Buzz
-## Social Buzz Analysis - README
+# Social Buzz Analysis
+## Engagement-Insights-Top-5-Content-Categories-on-Social-Buzz
 
 ### Overview
 The **Social Buzz Analysis** project was launched to explore and analyze user-generated content on the **Social Buzz** platform. Social Buzz is a rapidly growing social media platform with over 500 million active users, offering an anonymous space for users to engage with a variety of content. The purpose of this analysis is to identify and understand the platform’s top-performing content categories, providing insights for refining content strategy and preparing for the company's upcoming IPO.
@@ -39,22 +39,14 @@ Based on the analysis, it is recommended that Social Buzz concentrate its conten
 - Continuously monitor content trends to adapt strategies as user interests evolve.
 
 ### How to Use the Project Files
-- **Data Files**: All raw and processed data is stored in the `data` folder.
-- **Spreadsheets**: The `spreadsheets` folder contains the files used for the analysis, including data cleaning, modeling, and visualization.
+- **Data and Spreadsheets**: The `spreadsheets` folder contains the files used for the analysis, including data cleaning, modeling, and visualization.
 - **Reports**: A final report detailing the findings and visualizations can be found in the `reports` folder.
 
 ### Installation and Setup
 To replicate or extend the analysis, follow these steps:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/social-buzz-analysis.git
+   [git clone https://github.com/yourusername/social-buzz-analysis.git](https://github.com/Cyber-Admon/Engagement-Insights-Top-5-Content-Categories-on-Social-Buzz.git)
    ```
 2. Open the spreadsheets:  
    Access and interact with the files in the `spreadsheets` folder to review the analysis.
-
-### License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
----
-
-This README provides all necessary details about the project, including its objectives, process, and how to use the provided resources effectively.
